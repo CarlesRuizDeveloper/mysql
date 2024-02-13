@@ -228,7 +228,7 @@ CREATE TABLE IF NOT EXISTS `pizzeria`.`clients` (
   `telefon` INT(15) NULL DEFAULT NULL,
   PRIMARY KEY (`id`))
 ENGINE = InnoDB
-DEFAULT CHARACTER SET = latin1;
+DEFAULT CHARACTER SET = latin1;  
 
 
 -- -----------------------------------------------------
